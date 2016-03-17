@@ -1,3 +1,4 @@
+<?php print_r(123); ?>
 <!DOCTYPE html>
 <html>
 <body>
